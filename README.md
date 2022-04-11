@@ -2,6 +2,7 @@
 - 👀 I’m a neurobiologist 🐁 🧠
 - 🌱 I’m currently working on projects related to space radiation 🚀🧑‍🚀 and radiotherapy ⚛️🏥👨‍⚕️ on the brain and behavior
 - 📫 How to reach me: fredkiffer at gmail
+- 📚 [Bibliography](https://scholar.google.com/citations?user=N5R0duQAAAAJ&hl=en&oi=ao)
 
 <!---
 FKiffer/FKiffer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
